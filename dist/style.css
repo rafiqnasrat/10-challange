@@ -1,0 +1,29 @@
+.container > h3
+{
+    text-align: center;
+    background-color: var(--bs-info);
+    margin: 0;
+    padding: 10px 0;
+}
+.cus-card
+{
+    background-color: rgb(238, 236, 236);
+    border-radius: 1rem;
+    box-shadow: 0 0 10px rgb(190, 189, 189);
+    overflow: hidden;
+    margin-bottom: 15px;
+}
+.cus-card .cus-card-header
+{
+    background-color: var(--bs-info);
+    padding: .8rem 1rem
+}
+.cus-card .cus-card-body
+{
+    padding: 1rem;
+}
+.cus-card .cus-card-body p
+{
+    background-color: #fff;
+    padding: .5rem;
+}
