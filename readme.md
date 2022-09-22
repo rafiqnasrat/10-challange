@@ -1,3 +1,6 @@
+![this is a sceran shot](https://github.com/rafiqnasrat/10-challange/blob/main/Screenshot%20(14).png?raw=true)
+
+
 [link for vdeo here](https://youtu.be/YTXDhFtwQio)
 
 # 10challenge
