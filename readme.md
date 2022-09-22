@@ -1,3 +1,5 @@
+[link for vdeo here](https://youtu.be/YTXDhFtwQio)
+
 # 10challenge
 first i init inquirer for this
 jest also init for this challenge to do a testing
