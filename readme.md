@@ -13,3 +13,16 @@ and after the constructor i make same functions which the data was retrain for t
 i make anther file the name is index.js for all work
 i bring all imper f=which we need for this is challenge 
 also i make same functions to make html file i use fs for this now i ready
+
+
+## install
+
+```
+npm i
+```
+
+## start sever
+
+```
+npm start
+```
