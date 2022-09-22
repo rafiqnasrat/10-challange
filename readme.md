@@ -1,3 +1,4 @@
+# 10challenge
 first i init inquirer for this
 jest also init for this challenge to do a testing
 after this i make a folder and the folder name is lib
